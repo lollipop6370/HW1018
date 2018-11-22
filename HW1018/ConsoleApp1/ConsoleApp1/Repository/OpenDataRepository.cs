@@ -17,7 +17,7 @@ namespace OpenDataImport.Repository
         {
             get
             {
-                return @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\yuli\Desktop\HW1018\ConsoleApp1\ConsoleApp1\App_Data\Database1.mdf;Integrated Security=True";
+                return @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\yuli\Desktop\11\HW1018\ConsoleApp1\ConsoleApp1\App_Data\Database.mdf;Integrated Security=True";
                 //return @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + Directory.GetCurrentDirectory() + @"\App_Data\nodeDB.mdf;Integrated Security=True";
             }
 
